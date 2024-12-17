@@ -25,7 +25,7 @@ MODEL = "llama3-8b-8192"
 
 # Input and Output Paths
 PDF_DIRECTORY = "data"  # Replace with the directory containing PDFs
-EXCEL_OUTPUT_PATH = "extracted_keywords_with_groq.xlsx"
+EXCEL_OUTPUT_PATH = "output/extracted_keywords_with_groq.xlsx"
 
 # -------------------------- INITIALIZATION -------------------------- #
 
