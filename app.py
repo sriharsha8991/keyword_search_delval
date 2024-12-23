@@ -6,7 +6,7 @@ from src.config import initialize_groq_client, KEYWORDS
 from src.excel_and_main import save_results_to_excel
 
 # Initialize Groq client
-GROQ_API_KEY = "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" 
+GROQ_API_KEY = "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" 
 client = initialize_groq_client(GROQ_API_KEY)
 
 # Streamlit app title and description
